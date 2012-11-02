@@ -2,8 +2,10 @@ mongoose.helper
 ===============
 
 Simple mongoose models api
+Created by Mikelis Asnins
+E-mail: mikelis.asnins@yahoo.com
 
-mongoose.helper
+Developed for commercial mass e-mail sending application (not spammer :D, application is usded for sending reminders, invoices, etc.)
 
 <code>addSchema('name', MongooseSchema)</code> -> adds mongoose schema to list, for later use
 
